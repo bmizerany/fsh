@@ -1,0 +1,12 @@
+{
+  "name": "fsh",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Fuck syntax highlighting.",
+  "repository": "https://github.com/bmizerany/fsh",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
